@@ -1,5 +1,5 @@
 #------------------------------------------#
-# Title: Assignment06_Starter.py
+# Title: CDInventory.py
 # Desc: Working with classes and functions.
 # Change Log: 2/20/21, Eric Hoyle, consolidated code into functions under classes
 # updated main to incorporate new class and function calls. 
